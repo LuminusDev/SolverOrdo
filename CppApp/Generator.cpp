@@ -2,7 +2,6 @@
 #include<string>
 #include<fstream>
 #include<time.h>
-#include"windows.h"
 #include<stdio.h>
 #include<stdlib.h>
 #include"Generator.h"
